@@ -1,2 +1,2 @@
 
-This repo will contain examples of popular neural network architechures implemented in python using Tensorflow framework.
+This repo will contain examples of popular Convolutional neural networks implemented in python using Tensorflow framework.
